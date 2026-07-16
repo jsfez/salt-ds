@@ -139,13 +139,16 @@
     "workerDirectory": "docs/public"
   },
   "devDependencies": {
+    "@argos-ci/playwright": "^7.3.6",
     "@date-fns/tz": "^1.4.1",
+    "@playwright/test": "^1.61.1",
     "@rollup/plugin-commonjs": "^28.0.1",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^15.3.0",
     "browserslist-to-esbuild": "^2.1.1",
     "execa": "^9.0.0",
     "get-tsconfig": "^4.7.5",
+    "http-server": "^14.1.1",
     "rollup": "^4.24.2",
     "rollup-plugin-esbuild": "^6.1.1",
     "rollup-plugin-postcss": "^4.0.2",
